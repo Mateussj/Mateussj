@@ -10,7 +10,7 @@ Hi, I'm Mateus and I have a degree in computer science, a computer technician an
 
 - Sometimes I get lost in time doing algorithms.
 - I'm currently studying clean code, typeScript, TDD, kubernetes and ux design.
-- I work at Axxin Data Intelligence as a software developer and am improving my skills.
+- I work at Axxin Data Intelligence as a software developer and i'm improving my skills.
 
 **My social networks:**
 
