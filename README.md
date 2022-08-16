@@ -52,3 +52,4 @@ Hi, I'm Mateus and I have a degree in computer science, a computer technician an
 <br>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateussj&show_icons=true&theme=radical)
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateussj&layout=compact&langs_count=168&&theme=radical"/>
